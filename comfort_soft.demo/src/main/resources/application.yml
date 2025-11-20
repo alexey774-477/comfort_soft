@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cs_demo
+
+springdoc:
+  swagger-ui:
+    path: /cs_demo_swagger
